@@ -1,0 +1,48 @@
+#include<stdio.h>             //khai báo thư viện
+int abc();                    //hàm nguyên mẫu prototype
+
+                              //Khoảng trống
+
+
+int main()                   //hàm main
+
+{
+	printf("%d");        //lệnh printf bị lỗi khi thiếu nội dung để in
+	scanf("%d",s);       //lỗi 1: s chưa được khai báo
+                             //lỗi 2: cần khai báo địa chỉ &s trước s
+	int a,b;
+	char c,d;
+	char d,e;            //khai báo biến char d bị lặp
+	for(a;){             //thiếu cú pháp trong for
+	
+	}		
+	                     //gets() lưu trữ kí tự
+	gets("a");           //lỗi "a"
+	gets(b);             //lỗi: b khai báo int, gets() yêu cầu kí tự
+	
+
+}                            //các dấu ngoặc {} () [] dư thừa
+{
+(
+(
+]
+]
+
+		struct ;    //sai cú pháp struct  =>  struct A {};
+		 float c;
+			long a;
+int abc()                        //không trả về giá trị cho int abc()
+{
+}
+
+
+int Sum_NaturalNum(n)         //chưa khai báo kiểu dữ liệu của n
+{
+	char f;
+	for(i=0;i<n;i++)      //chưa khai báo i  (int i=0)
+	{
+		sum=sum+i;    //chưa khai báo sum
+	}
+	
+	return sum;
+	}

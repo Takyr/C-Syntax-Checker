@@ -1,0 +1,40 @@
+line 1 [31]: #include<stdio.h>             
+line 2 [31]: int abc();                    
+line 3 [31]:                               
+line 4 [30]: int main()                   
+line 5 [2]: {
+line 6 [23]: 	printf("%d");        
+line 7 [23]: 	scanf("%d",s);       
+line 8 [30]:                              
+line 9 [10]: 	int a,b;
+line 10 [11]: 	char c,d;
+line 11 [23]: 	char d,e;            
+line 12 [23]: 	for(a;){             
+line 13 [2]: 	
+line 14 [5]: 	}		
+line 15 [23]: 	                     
+line 16 [23]: 	gets("a");           
+line 17 [23]: 	gets(b);             
+line 18 [2]: 	
+line 19 [30]: }                            
+line 20 [2]: {
+line 21 [2]: (
+line 22 [2]: (
+line 23 [2]: ]
+line 24 [2]: ]
+line 25 [15]: 		struct ;    
+line 26 [12]: 		 float c;
+line 27 [11]: 			long a;
+line 28 [34]: int abc()                        
+line 29 [2]: {
+line 30 [2]: }
+line 31 [31]: int Sum_NaturalNum(n)         
+line 32 [2]: {
+line 33 [9]: 	char f;
+line 34 [25]: 	for(i=0;i<n;i++)      
+xline 35 [3]: 	{
+line 36 [17]: 		sum=sum+i;    
+line 37 [3]: 	}
+line 38 [2]: 	
+line 39 [13]: 	return sum;
+line 40 [2]: 	}
